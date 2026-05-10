@@ -168,19 +168,19 @@ java ClothingBrandSystem
 ---
 
 # Demo Video Link
-Add your demo video link here:
+https://drive.google.com/file/d/1yOTIzzaHO4l-sBh3HApM8y-8qthylkvq/view?usp=drivesdk
 
 ```text
-https://your-demo-video-link.com
+https://drive.google.com/file/d/1yOTIzzaHO4l-sBh3HApM8y-8qthylkvq/view?usp=drivesdk
 ```
 
 ---
 
 # GitHub Repository URL
-Add your GitHub repository link here:
+https://github.com/muqadasrahoojo/OOP_Project.git
 
 ```text
-https://github.com/your-repository-link
+https://github.com/muqadasrahoojo/OOP_Project.git
 ```
 
 
